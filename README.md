@@ -16,7 +16,7 @@
 
 ## Trabajo en Equipo
 
-En este proyecto, van a trabajar en equipo de 7 estudiantes.
+En este proyecto, se trabajo junto a un equipo de 6 estudiantes.
 Utilizando  **GIT** para gestionar el código y **Trello** para gestionar el proyecto y facilitar la colaboración. 
 Se utilizo el siguiente *workflow* para una tarea dada:
 
