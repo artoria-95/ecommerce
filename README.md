@@ -13,6 +13,12 @@
 - Utilizar Metodologías Ágiles.
 - Trabajar en equipo.
 
+## Screens del E-Commerce
+
+<p align='left'>
+    <img src='http://res.cloudinary.com/gonzaloaguilarm/image/upload/v1612195769/Home_alcrhs.jpg' </img>
+</p>
+
 
 ## Trabajo en Equipo
 
