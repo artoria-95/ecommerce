@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+select {
+  background: transparent;
+  border: none;
+  border-bottom: 1px ridge;
+  font-size: 14px;
+  height: 30px;
+  padding: 5px;
+  overflow: hidden;
+  outline: none;
+}
+
+&:hover,
+&:focus {
+  background-color: #232323;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+}
+
+option {
+  background-color: #e3e3e3;
+  color: black;
+  cursor: pointer;
+  outline: none;
+
+  &:nth-child(even) {
+    background: #fff;
+  }
+}

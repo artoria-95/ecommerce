@@ -1,0 +1,74 @@
+thead{
+  color:white;
+  font-weight: bold;
+  background: rgb(4,4,10);
+background: linear-gradient(0deg, rgba(4,4,10,1) 0%, rgba(11,11,62,1) 34%);
+}
+
+#newCategory{
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 70%, rgba(0,212,255,1) 100%);
+}
+
+#newProduct{
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(17,121,9,1) 70%, rgba(181,255,0,1) 100%);
+}
+
+#addCategory{
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(17,121,9,1) 70%, rgba(181,255,0,1) 100%);
+}
+
+#remove{
+  background: rgb(36,0,0);
+  background: radial-gradient(circle, rgba(36,0,0,1) 0%, rgba(121,9,9,1) 88%, rgba(255,0,0,1) 100%);
+}
+
+#edit{
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 70%, rgba(0,212,255,1) 100%);
+}
+
+#imgBox img {
+  width: 80px !important;
+}
+
+#buttonBox button {
+  
+  margin-top: 2px;
+  width: 100%;
+}
+
+#tBody tr td {
+  padding: .5rem;
+  vertical-align: middle;
+}
+
+.App {
+  margin-top: 2rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+#prodList {
+  display: flex;
+  width: fit-content;
+  margin: auto;
+}
+
+#ordTabl {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2rem;
+  padding-right: 4rem;
+  padding-left: 4rem;
+}
+
+#idNum {
+  cursor: not-allowed;
+}
+
+.newProCat {
+  display: flex;
+}

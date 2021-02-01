@@ -1,0 +1,42 @@
+.Dropdown {
+  border: none;
+}
+
+.dropdown button:hover,
+.dropdown button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  background: none !important;
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+
+.UserName {
+  font-size: 1rem;
+  cursor: pointer;
+  color: black !important;
+  font-weight: 500;
+}
+
+.DropdownToggle {
+  background: none;
+  border: none;
+  padding: 0 !important;
+  border-radius: 2em !important;
+  color: white !important;
+}
+
+.DropdownToggle:hover {
+  background: none;
+}
+
+.Avatar {
+  font-size: 2rem;
+  width: 1.5rem !important;
+  overflow: hidden;
+}
+
+.LinkItem,
+.LinkItem:hover {
+  color: black;
+}

@@ -1,0 +1,31 @@
+.table {
+  margin-top: 3rem;
+  width: stretch;
+  width: -moz-available;
+  table-layout: fixed;
+  align-items: center;
+  margin-bottom: 484px;
+
+
+  th,
+  td {
+    text-align: left;
+    padding: 4px 2px;
+  }
+  th {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+  }
+  tr:nth-child(even) {
+    background-color: #00000011;
+  }
+  .asc {
+    box-shadow: 0 -3px 0 #010233;
+  }
+  .desc {
+    box-shadow: 0 3px 0  #010233;
+  }
+
+
+}

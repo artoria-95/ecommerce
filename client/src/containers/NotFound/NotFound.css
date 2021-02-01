@@ -1,0 +1,19 @@
+.content {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notFound {
+  width: auto;
+  height: 450px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.page {
+  color: #003d74;
+  font-family: 'Goldman', cursive;
+  text-align: center;
+  padding: 12px;
+}

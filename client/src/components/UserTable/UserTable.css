@@ -1,0 +1,34 @@
+thead{
+  color:white;
+  font-weight: bold;
+  background: rgb(4,4,10);
+background: linear-gradient(0deg, rgba(4,4,10,1) 0%, rgba(11,11,62,1) 34%);
+text-align: center;
+}
+
+#btn {
+  background: rgb(2,0,36);
+  background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 70%, rgba(0,212,255,1) 100%);
+}
+
+
+#settings button {  
+  margin-top: 2px;
+  width: 100%;
+}
+
+#tBody tr td {
+  padding: .5rem;
+  vertical-align: middle;
+  
+}
+
+.mainLink{
+  text-decoration: none;
+  text-transform: none;
+  color:black
+}
+
+.App {
+  margin-bottom: 327px;
+}

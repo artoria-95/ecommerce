@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.div-children {
+    width: 100%;
+    min-height: calc(100vh - 211px - 58px);
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
