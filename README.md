@@ -31,6 +31,9 @@
     <img src='http://res.cloudinary.com/gonzaloaguilarm/image/upload/v1612196117/ProductList_wb2lgl.jpg' </img>
 </p>
 
+<p align='left'>
+    <img src='http://res.cloudinary.com/gonzaloaguilarm/image/upload/v1612196262/AccountSettings_fkkn61.jpg' </img>
+</p>
 
 ## Trabajo en Equipo
 
